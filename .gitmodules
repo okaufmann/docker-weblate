@@ -1,0 +1,3 @@
+[submodule "build/weblate/weblate"]
+	path = build/weblate/weblate
+	url = https://github.com/nijel/weblate.git
