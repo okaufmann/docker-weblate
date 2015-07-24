@@ -2,8 +2,8 @@
 building a working Weblate docker environment
 
 ## Prerequisites
-* docker
-* fig
+* [docker](https://docs.docker.com/)
+* [docker-compose](https://docs.docker.com/compose/)
 
 ##Preparing
 
@@ -13,7 +13,7 @@ You have to checkout with submodules like:
 git clone --recursive https://github.com/okaufmann/weblate-docker-docker-compose.git
 ```
 
-**Otherwise it won't work!**
+** Otherwise it won't work! **
 
 ## Usage
 ```
